@@ -13,7 +13,7 @@ You will be able to use type => 'et-icon' in your options
 	),
 ```
 
-I have included the *includes* folder in a folder named *inc* in the root of my theme's folder eg. ```{theme}/inc/includes/```. You can place the folder wherever you like, just make sure that all paths are updated to point to the right files. Following is all of the code and the paths that require editing in the case that you use a different folder structure.
+I have included the *option-types* folder in *inc/includes/* in the root of my theme's folder eg. ```{theme}/inc/includes/```. You can place the folder wherever you like, just make sure that all paths are updated to point to the right files. Following is all of the code and the paths that require editing in the case that you use a different folder structure.
 
 ### Important: Add this to your functions.php
 
